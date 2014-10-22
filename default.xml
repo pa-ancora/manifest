@@ -366,7 +366,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/ScreenRecorder" name="AOSPA-legacy/android_packages_apps_ScreenRecorder" remote="github" revision="kitkat" />
-  <project path="packages/apps/Settings" name="AOSPA-legacy/android_packages_apps_Settings" remote="github" revision="kitkat"  />
+  <project path="packages/apps/Settings" name="pa-ancora/android_packages_apps_Settings" remote="github" revision="kitkat"  />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -385,8 +385,8 @@
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" remote="cm" revision="cm-11.0" />
-  <project path="packages/providers/DownloadProvider" name="AOSPA-legacy/android_packages_providers_DownloadProvider" remote="github" revision="kitkat" />
-  <project path="packages/providers/MediaProvider" name="AOSPA-legacy/android_packages_providers_MediaProvider" remote="github" revision="kitkat" />
+  <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="cm" revision="cm-11.0" />
+  <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" remote="cm" revision="cm-11.0" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="AOSPA-legacy/android_packages_providers_TelephonyProvider" remote="github" revision="kitkat" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
