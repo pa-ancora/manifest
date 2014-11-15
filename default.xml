@@ -278,7 +278,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="cm" revision="cm-11.0" groups="pdk" />
-  <project path="frameworks/base" name="Madridii/android_frameworks_base" remote="github" revision="kitkat" />
+  <project path="frameworks/base" name="pa-ancora/android_frameworks_base" remote="github" revision="kitkat" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
@@ -366,7 +366,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/ScreenRecorder" name="AOSPA-legacy/android_packages_apps_ScreenRecorder" remote="github" revision="kitkat" />
-  <project path="packages/apps/Settings" name="Madridii/android_packages_apps_Settings" remote="github" revision="kitkat"  />
+  <project path="packages/apps/Settings" name="pa-ancora/android_packages_apps_Settings" remote="github" revision="kitkat"  />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -477,7 +477,7 @@
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="github" revision="cm-11.0" />  
 
-  <project name="pa-device/android_device_samsung_ancora" path="device/samsung/ancora" remote="github" revision="cm-11.0" />
+  <project name="pa-ancora/android_device_samsung_ancora" path="device/samsung/ancora" remote="github" revision="cm-11.0" />
   <project name="arco/android_vendor_samsung_ancora" path="vendor/samsung/ancora" remote="github" revision="cm-11.0" />
   <project name="pa-ancora/samsung-kernel-msm7x30" path="kernel/samsung/msm7x30-common" remote="github" revision="cm-11.0"/>  
 
